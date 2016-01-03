@@ -1,0 +1,6 @@
+main: ${main.class}
+name: ${project.name}
+version: ${project.version}
+description: A simple Minecraft plugin to grab system info/specs
+author: Dylan Hansch
+website: https://dylanhansch.net
