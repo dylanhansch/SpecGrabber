@@ -4,3 +4,10 @@ version: ${project.version}
 description: A simple Minecraft plugin to grab system info/specs
 author: Dylan Hansch
 website: https://dylanhansch.net
+commands:
+    cpu:
+        description: View CPU specs
+        usage: /<command>
+    top:
+        description: Linux top command
+        usage: /<command>
