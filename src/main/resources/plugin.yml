@@ -8,6 +8,9 @@ commands:
     cpu:
         description: View CPU specs
         usage: /<command>
+    java:
+        description: View Java (JRE) info
+        usage: /<command>
     top:
         description: Linux top command
         usage: /<command>
