@@ -11,6 +11,9 @@ commands:
     java:
         description: View Java (JRE) info
         usage: /<command>
+    os:
+        description: View OS info
+        usage: /<command>
     top:
         description: Linux top command
         usage: /<command>

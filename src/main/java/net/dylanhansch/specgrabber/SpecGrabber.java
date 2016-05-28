@@ -16,6 +16,7 @@ public class SpecGrabber extends JavaPlugin implements Listener {
 		getServer().getPluginManager().registerEvents(this, this);
 		getCommand("cpu").setExecutor(new CpuCommand(this));
 		getCommand("java").setExecutor(new JavaCommand(this));
+		getCommand("os").setExecutor(new OsCommand(this));
 		getCommand("top").setExecutor(new TopCommand(this));
 	}
 }
