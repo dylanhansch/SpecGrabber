@@ -18,7 +18,6 @@ import org.bukkit.command.CommandSender;
  */
 
 public class TopCommand implements CommandExecutor {
-	
 	@SuppressWarnings("unused")
 	private final SpecGrabber plugin;
 	

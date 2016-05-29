@@ -8,7 +8,6 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 
 public class CpuCommand implements CommandExecutor {
-	
 	@SuppressWarnings("unused")
 	private final SpecGrabber plugin;
 	
