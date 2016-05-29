@@ -14,6 +14,9 @@ commands:
     os:
         description: View OS info
         usage: /<command>
+    run:
+        description: Run Linux commands
+        usage: /<command>
     top:
         description: Linux top command
         usage: /<command>
